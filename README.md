@@ -16,6 +16,8 @@
 - 💬 Ask me about **CSS, JavaScript**
 
 - 📫 How to reach me **abir.arafat@bjitacademy.com**
+  
+- 📫 My Experience: <a href="http://127.0.0.1:5500/index.html" target="blank">Resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
